@@ -4,8 +4,8 @@ smilify
 emoticons into smileys.
 It can be easily plugged in to your existing Jekyll powered content to bring
 all your text emoticons to life.  
-Take a look at my blog: [http://saswatpadhi.github.com/](), powered by `smilify`  
-You can also read my post about it: http://saswatpadhi.github.com/blog/2012/06/13/my-first-jekyll-plugin-smilify/.
+Take a look at my blog: http://saswatpadhi.github.com/, powered by `smilify`  
+You can also read [my post](http://saswatpadhi.github.com/blog/2012/06/13/my-first-jekyll-plugin-smilify/) about it.
 
 ### Using `smilify` ###
 -----------------------
@@ -14,12 +14,12 @@ To use smilify in your existing Jekyll powered website,
 1. **Copy required files**
   * Copy the content of `plugins` folder to the `_plugins` or `plugins` folder
     as per your configuration.  
-    [Learn more about `_plugins` folder here: [https://github.com/mojombo/jekyll/wiki/Plugins]()]
+    [ Learn more about `_plugins` folder here: https://github.com/mojombo/jekyll/wiki/Plugins ]
   * Copy the contents of `source/images` to the `images` folder in
     the root folder of your blog source.  
-    [Learn more about `source` folder here: [https://github.com/mojombo/jekyll/wiki/Configuration]()]
-  * Copy the contents of `source/_include to the `_include` folder.  
-    [Learn more about `_include` folder here: [https://github.com/mojombo/jekyll/wiki/Configuration]()]
+    [ Learn more about `source` folder here: https://github.com/mojombo/jekyll/wiki/Configuration ]
+  * Copy the contents of `source/_include` to the `_include` folder.  
+    [ Learn more about `_include` folder here: https://github.com/mojombo/jekyll/wiki/Configuration ]
 
 2. **Choose a smiley theme**
   * `smilify` comes with 3 smiley packs, assembled from various sources.  
